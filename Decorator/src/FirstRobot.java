@@ -1,6 +1,5 @@
 public class FirstRobot implements Robot{
     FirstRobot(){
-
     }
     @Override
     public void info() {
