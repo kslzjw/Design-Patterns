@@ -1,2 +1,2 @@
 # Design-Patterns
-Introduce the Design Patterns in the course of learning them
+Introduce the Design Patterns during the course of learning them
