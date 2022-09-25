@@ -3,11 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bridge/Bridge.iml" filepath="$PROJECT_DIR$/Bridge/Bridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainResp/ChainResp.iml" filepath="$PROJECT_DIR$/ChainResp/ChainResp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/Mediator/Mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observor/Observor.iml" filepath="$PROJECT_DIR$/Observor/Observor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
     </modules>
   </component>
 </project>
